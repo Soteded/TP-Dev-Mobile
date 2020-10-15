@@ -1,0 +1,7 @@
+{
+  "name": "TP2-Investment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
